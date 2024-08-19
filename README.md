@@ -36,18 +36,31 @@
 
 ### O que quero aprender sobre os assuntos que serão abordados neste módulo?
 
-- **Introdução ao Docker e Docker Compose:** Aprender como configurar e gerenciar contêineres usando Docker e Docker Compose para desenvolvimento e implantação de aplicações.
-- **Introdução a Banco de Dados:** Compreender melhor a estrutura dos bancos de dados e como interagir com eles para armazenar e recuperar dados.
-- **Carreira - Metodologias Ágeis:** Explorar metodologias ágeis em profundidade e aprender como aplicá-las efetivamente em projetos de software.
-- **Consultas SQL:** Aprender a escrever consultas SQL mais complexas para extrair e manipular dados de forma eficiente.
-- **Modelagem de Dados:** Aprofundar o conhecimento em modelagem de dados para criar esquemas de banco de dados bem estruturados e eficazes.
-- **Carreira - Diversidade e Inclusão em Tecnologia:** Entender como promover diversidade e inclusão no ambiente tecnológico e como isso pode impactar positivamente o desenvolvimento de software.
-- **CRUD SQL:** Aprender a implementar operações CRUD de forma avançada e otimizar o gerenciamento de dados em um banco de dados.
-- **Agrupamento e Relacionamentos entre Tabelas:** Explorar técnicas de agrupamento e estabelecer relacionamentos entre tabelas para uma análise de dados mais eficiente.
-- **Carreira - Marca Pessoal e Plano de Carreira:** Desenvolver uma estratégia de marca pessoal e um plano de carreira para alcançar objetivos profissionais de longo prazo.
-- **Conexão Node.js com PostgreSQL:** Aprender a conectar e interagir com um banco de dados PostgreSQL a partir de uma aplicação Node.js.
-- **Autenticação e Criptografia:** Aprofundar o entendimento sobre autenticação e criptografia para garantir a segurança das aplicações e dos dados.
-- **Integração com API de Terceiros:** Aprender a integrar APIs de terceiros em aplicações para expandir suas funcionalidades e interagir com serviços externos.
-- **Git e Fluxo de Trabalho em Equipe:** Compreender práticas avançadas de Git e como estabelecer um fluxo de trabalho eficiente para colaboração em equipe.
+- **Introdução ao Docker e Docker Compose:** Quero entender como o Docker e o Docker Compose podem transformar o desenvolvimento e a implantação de aplicações. A configuração e o gerenciamento de contêineres são habilidades essenciais para criar ambientes de desenvolvimento consistentes e eficientes. Estou interessado em explorar como essas ferramentas podem simplificar o processo de configuração e escalabilidade de aplicações, melhorando a produtividade e a colaboração em projetos.
+
+- **Introdução a Banco de Dados:** Meu objetivo é aprofundar meu conhecimento sobre bancos de dados, compreendendo melhor sua estrutura e funcionamento. Entender como interagir com bancos de dados para armazenar e recuperar dados é crucial para desenvolver aplicações robustas e eficientes. Desejo aprender como projetar esquemas de banco de dados que atendam às necessidades específicas dos projetos, garantindo integridade e performance.
+
+- **Carreira - Metodologias Ágeis:** Quero explorar metodologias ágeis e como elas podem ser aplicadas efetivamente em projetos de software. A agilidade no desenvolvimento é vital para responder rapidamente às mudanças e entregar valor contínuo. Estou interessado em aprender como implementar práticas ágeis que promovam a colaboração, a adaptabilidade e a entrega incremental de produtos de alta qualidade.
+
+- **Consultas SQL:** Busco aprender a escrever consultas SQL mais complexas e eficientes. Dominar a linguagem SQL é fundamental para manipular e extrair dados de bancos de dados relacionais. Quero aprimorar minhas habilidades em consultas para analisar dados de forma mais eficaz e fornecer insights valiosos para decisões informadas.
+
+- **Modelagem de Dados:** Pretendo aprofundar meus conhecimentos em modelagem de dados para criar esquemas de banco de dados bem estruturados. A modelagem eficaz é essencial para garantir que os dados sejam organizados e acessíveis de maneira eficiente. Estou interessado em aprender como construir modelos que representem adequadamente as necessidades de negócios e suportem operações complexas.
+
+- **Carreira - Diversidade e Inclusão em Tecnologia:** Desejo entender como promover a diversidade e a inclusão no ambiente tecnológico e o impacto positivo que isso pode ter no desenvolvimento de software. A inclusão de diferentes perspectivas é crucial para a inovação e a criação de soluções que atendam a uma ampla gama de usuários. Quero aprender como construir e contribuir para ambientes mais inclusivos e equitativos.
+
+- **CRUD SQL:** Quero aprender a implementar operações CRUD de forma avançada e otimizar o gerenciamento de dados em bancos de dados. Compreender como realizar operações de criação, leitura, atualização e exclusão é essencial para gerenciar dados de forma eficaz. Meu objetivo é aprimorar minhas habilidades para realizar essas operações com eficiência e precisão.
+
+- **Agrupamento e Relacionamentos entre Tabelas:** Busco explorar técnicas de agrupamento e estabelecer relacionamentos entre tabelas para uma análise de dados mais eficiente. A capacidade de agrupar e relacionar dados é crucial para realizar análises complexas e gerar relatórios significativos. Quero aprender como estruturar dados de maneira que facilite a análise e a obtenção de insights valiosos.
+
+- **Carreira - Marca Pessoal e Plano de Carreira:** Desejo desenvolver uma estratégia de marca pessoal e um plano de carreira claro para alcançar meus objetivos profissionais de longo prazo. A construção de uma marca pessoal forte e a criação de um plano de carreira bem definido são fundamentais para avançar na minha trajetória profissional e atingir metas significativas. Quero aprender como me destacar no mercado e planejar meu crescimento de forma estratégica.
+
+- **Conexão Node.js com PostgreSQL:** Quero aprender a conectar e interagir com um banco de dados PostgreSQL usando Node.js. Compreender como integrar essas tecnologias permitirá desenvolver aplicações dinâmicas e eficientes que utilizem bancos de dados relacionais. Estou interessado em explorar as melhores práticas para garantir uma conexão segura e eficaz entre Node.js e PostgreSQL.
+
+- **Autenticação e Criptografia:** Meu objetivo é aprofundar meu entendimento sobre autenticação e criptografia para proteger dados e garantir a segurança das aplicações. A implementação de práticas robustas de autenticação e criptografia é essencial para manter a integridade e a confidencialidade dos dados. Quero aprender como aplicar essas técnicas de forma eficaz para proteger sistemas e informações sensíveis.
+
+- **Integração com API de Terceiros:** Desejo aprender a integrar APIs de terceiros em aplicações para expandir suas funcionalidades e interagir com serviços externos. A integração com APIs é uma habilidade importante para adicionar novas funcionalidades e serviços a uma aplicação. Quero explorar como utilizar APIs de forma eficiente e segura para melhorar a versatilidade e a funcionalidade das minhas aplicações.
+
+- **Git e Fluxo de Trabalho em Equipe:** Quero compreender práticas avançadas de Git e como estabelecer um fluxo de trabalho eficiente para colaboração em equipe. O uso eficaz do Git é essencial para o controle de versões e a colaboração em projetos de software. Estou interessado em aprender como configurar fluxos de trabalho que facilitem a colaboração e o gerenciamento de código em equipe, melhorando a eficiência e a qualidade do desenvolvimento.
+
 
 
